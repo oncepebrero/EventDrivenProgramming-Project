@@ -1,0 +1,20 @@
+.container {
+    max-width: 800px; /* Limit container width */
+    margin: 0 auto; /* Center the container */
+    padding: 20px; /* Add padding */
+  }
+  
+  .profile-introduction {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc; /* Optional: Adds a border around the introduction */
+    border-radius: 8px; /* Optional: Rounded corners */
+    background-color: #f9f9f9; /* Optional: Light background color */
+  }
+  
+  .profile-image {
+    width: 150px; /* Adjust size as needed */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%; /* Makes the image circular */
+  }
+  
